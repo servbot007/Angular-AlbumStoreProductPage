@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { Http, Response } from '@angular/http';
 import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map';
+import 'rxjs/add/operator/find';
 
 import { Album } from './album';
 import { Product } from './product';
@@ -16,7 +17,9 @@ export class ProductService {
   getAlbum(id: number): Observable<Album> {
     return this._http.get(this._albumUrl)
       .map(
-        response => <Album>response.json()
+        response => {
+          return <Album>response.json().find(value => value.id === id);
+        }
       );
   }
 

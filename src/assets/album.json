@@ -1,19 +1,156 @@
-{
-  "id": 1,
-  "artist": "The Prependers",
-  "album": {
-    "name": "Opacity Zero",
-    "releaseDate": "September 25, 2014",
-    "coverImage": "assets/opacity-zero.jpg",
-    "tracks": [
-      {"trackNumber": 1, "trackName": "The Last", "trackLength": "4:48", "trackPrice": 0.99 },
-      {"trackNumber": 2, "trackName": "Downtown", "trackLength": "3:13", "trackPrice": 0.99 },
-      {"trackNumber": 3, "trackName": "Yellow Carpet", "trackLength": "3:42", "trackPrice": 0.99 },
-      {"trackNumber": 4, "trackName": "Rocket to Mars", "trackLength": "4:31", "trackPrice": 0.99 },
-      {"trackNumber": 5, "trackName": "Walk, not Run", "trackLength": "2:53", "trackPrice": 0.99 },
-      {"trackNumber": 6, "trackName": "Design", "trackLength": "5:12", "trackPrice": 0.99 },
-      {"trackNumber": 7, "trackName": "Shopping Cart", "trackLength": "9:07", "trackPrice": 0.99 },
-      {"trackNumber": 8, "trackName": "Our Gift to You", "trackLength": "3:59", "trackPrice": 0.99 }
-    ]
+[
+  {
+    "id": 1,
+    "artist": "The Prependers",
+    "album": {
+      "name": "Opacity Zero",
+      "releaseDate": "September 25, 2014",
+      "coverImage": "assets/opacity-zero.jpg",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "trackName": "The Last",
+          "trackLength": "4:48",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 2,
+          "trackName": "Downtown",
+          "trackLength": "3:13",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 3,
+          "trackName": "Yellow Carpet",
+          "trackLength": "3:42",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 4,
+          "trackName": "Rocket to Mars",
+          "trackLength": "4:31",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 5,
+          "trackName": "Walk, not Run",
+          "trackLength": "2:53",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 6,
+          "trackName": "Design",
+          "trackLength": "5:12",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 7,
+          "trackName": "Shopping Cart",
+          "trackLength": "9:07",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 8,
+          "trackName": "Our Gift to You",
+          "trackLength": "3:59",
+          "trackPrice": 0.99
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "artist": "The Bangles",
+    "album": {
+      "name": "Greatest Hits",
+      "releaseDate": "May 8, 1990",
+      "coverImage": "assets/The_Bangles_Greatest_Hits.jpg",
+      "tracks": [
+        {
+          "trackNumber": 1,
+          "trackName": "Hero Takes a Fall",
+          "trackLength": "2:55",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 2,
+          "trackName": "Going Down to Liverpool",
+          "trackLength": "3:40",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 3,
+          "trackName": "Manic Monday",
+          "trackLength": "3:06",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 4,
+          "trackName": "If She Knew What She Wants",
+          "trackLength": "3:50",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 5,
+          "trackName": "Walk Like an Egyptian",
+          "trackLength": "3:24",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 6,
+          "trackName": "Walking Down Your Street",
+          "trackLength": "3:17",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 7,
+          "trackName": "Following",
+          "trackLength": "3:21",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 8,
+          "trackName": "Hazy Shade of Winter",
+          "trackLength": "2:47",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 9,
+          "trackName": "In Your Room",
+          "trackLength": "3:29",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 10,
+          "trackName": "Eternal Flame",
+          "trackLength": "3:56",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 11,
+          "trackName": 	"Be With You",
+          "trackLength": "3:02",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 12,
+          "trackName": "I'll Set You Free" ,
+          "trackLength": "4:51",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 13,
+          "trackName": "Everything I Wanted"	,
+          "trackLength": "3:37",
+          "trackPrice": 0.99
+        },
+        {
+          "trackNumber": 14,
+          "trackName": "Where Were You When I Needed You",
+          "trackLength": "3:05",
+          "trackPrice": 0.99
+        }
+      ]
+    }
   }
-}
+]
